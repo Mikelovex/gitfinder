@@ -1,3 +1,4 @@
+# :computer: Sobre
 ### GitFinder
 Aplicação onde é possivel achar usuários do github e ver suas informações como repositórios, seguidores e quem o usuário esta seguindo
 
